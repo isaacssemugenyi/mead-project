@@ -1,0 +1,18 @@
+{
+  "name": "mead",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mead.js",
+  "scripts": {
+    "start": "node mead.js",
+    "dev": "nodemon mead",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isaac",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "nodemon": "^2.0.2"
+  }
+}
